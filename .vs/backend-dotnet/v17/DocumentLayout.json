@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|c:\\react_.net\\workspace\\iassure_fullstack\\backend-dotnet\\backend-dotnet\\controllers\\headofficescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\controllers\\headofficescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|c:\\react_.net\\workspace\\iassure_fullstack\\backend-dotnet\\backend-dotnet\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|c:\\react_.net\\workspace\\iassure_fullstack\\backend-dotnet\\backend-dotnet\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|c:\\react_.net\\workspace\\iassure_fullstack\\backend-dotnet\\backend-dotnet\\core\\dtos\\location\\branchupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\core\\dtos\\location\\branchupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|c:\\react_.net\\workspace\\iassure_fullstack\\backend-dotnet\\backend-dotnet\\core\\dtos\\location\\headofficeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\core\\dtos\\location\\headofficeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|c:\\react_.net\\workspace\\iassure_fullstack\\backend-dotnet\\backend-dotnet\\migrations\\20240304054928_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F674FDDA-FD42-42D1-9B1D-C1567C396EB2}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\migrations\\20240304054928_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:984708786:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperConfigProfile.cs",
+              "DocumentMoniker": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ToolTip": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeToolTip": "backend-dotnet\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:56:08.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BranchesController.cs",
+              "DocumentMoniker": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Controllers\\BranchesController.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Controllers\\BranchesController.cs",
+              "ToolTip": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Controllers\\BranchesController.cs",
+              "RelativeToolTip": "backend-dotnet\\Controllers\\BranchesController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswG8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:53:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeadOfficeUpdateDto.cs",
+              "DocumentMoniker": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Core\\Dtos\\Location\\HeadOfficeUpdateDto.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Core\\Dtos\\Location\\HeadOfficeUpdateDto.cs",
+              "ToolTip": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Core\\Dtos\\Location\\HeadOfficeUpdateDto.cs",
+              "RelativeToolTip": "backend-dotnet\\Core\\Dtos\\Location\\HeadOfficeUpdateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:52:09.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeadOfficesController.cs",
+              "DocumentMoniker": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Controllers\\HeadOfficesController.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Controllers\\HeadOfficesController.cs",
+              "ToolTip": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Controllers\\HeadOfficesController.cs",
+              "RelativeToolTip": "backend-dotnet\\Controllers\\HeadOfficesController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAADwv0wAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:06:06.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BranchUpdateDto.cs",
+              "DocumentMoniker": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Core\\Dtos\\Location\\BranchUpdateDto.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Core\\Dtos\\Location\\BranchUpdateDto.cs",
+              "ToolTip": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Core\\Dtos\\Location\\BranchUpdateDto.cs",
+              "RelativeToolTip": "backend-dotnet\\Core\\Dtos\\Location\\BranchUpdateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:00:11.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240304054928_add.cs",
+              "DocumentMoniker": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Migrations\\20240304054928_add.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Migrations\\20240304054928_add.cs",
+              "ToolTip": "C:\\React_.Net\\Workspace\\iAssure_fullstack\\backend-dotnet\\backend-dotnet\\Migrations\\20240304054928_add.cs",
+              "RelativeToolTip": "backend-dotnet\\Migrations\\20240304054928_add.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAjwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:49:28.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
